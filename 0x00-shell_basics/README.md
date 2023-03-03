@@ -3,3 +3,4 @@ Display the content list of the current working directory
 Changes the working directory to the users home directory
 Display current directory contents in a long form
 Display current directories including hidden files
+Script that creates a directory named my_first_directory in the /tmp/ directory
